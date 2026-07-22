@@ -1,0 +1,11 @@
+{
+  "validUser": {
+    "orgAdminUser": "saworkspvtltd@yopmail.com",
+    "orgAdminPassword": "Lts@12345"
+  },
+  "invalidUser": {
+    "orgAdminUser": "saworkspvtl@yopmail.com",
+    "orgAdminPassword": "Lts@123"
+  }
+}
+
